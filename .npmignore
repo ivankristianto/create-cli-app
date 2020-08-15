@@ -1,0 +1,6 @@
+src/
+test/
+coverage/
+.travis.yml
+.gitignore
+.idea/
